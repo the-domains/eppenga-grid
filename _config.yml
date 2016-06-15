@@ -1,0 +1,14 @@
+layout_spectrum: 0.30682836426422
+typography_spectrum: 0.29708574898540974
+color:
+  brandStrength: 0.31718283193185925
+  lightness: 0.6422189415898174
+  saturation: 0.16807251330465078
+  rhythmicContrast: 0.303940340410918
+  brandColors:
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
+name: Eppenga Grid
